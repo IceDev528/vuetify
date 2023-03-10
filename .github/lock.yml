@@ -1,6 +1,0 @@
-daysUntilLock: 365
-lockComment: false
-
-pulls:
-  daysUntilLock: 30
-  exemptLabels: ['S: on hold', 'S: work in progress']
